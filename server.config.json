@@ -1,0 +1,20 @@
+{
+  "server": {
+    "host": "",
+    "port": 1168
+  },
+  "display": {
+    "date_format": "%B %d, %Y at %I:%M:%S %p",
+    "clear_command": "cls",
+    "table_type": "grid",
+    "print_to_file": false,
+    "print_to_file_name": "output.txt",
+    "print_to_file_ftp": false
+  },
+  "ftp": {
+    "host": "",
+    "user": "",
+    "pass": "",
+    "path": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "client": {
+    "name": "Client Name",
+    "workers": 1,
+    "data_directory": "",
+    "data_update_interval": 1800
+  },
+  "server": {
+    "ip": "127.0.0.1",
+    "port": 1168
+  }
+}
